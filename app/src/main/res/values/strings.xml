@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UAS_AKB_IF3_10117104</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="user_location_permission_explanation">Aplikasi ini membutuhkan izin lokasi gps untuk maps.</string>
+    <string name="user_location_permission_not_granted">Kamu tidak mengizinkan lokasi.</string>
+
+    <string name="mapbox_access_token">pk.eyJ1IjoiZGl0ejE5OTgiLCJhIjoiY2tkcGc2YXR3MDVyeDJ5bXl2Z3Z5M2YyeSJ9.MtVpmwYJT4Vk5Grg3yWLUg</string>
+</resources>
